@@ -1,0 +1,8 @@
+Juan José Sua Gómez
+juanjosesua2008@gmail.com
+
+comandos: git init
+          git add    datos.txt
+          git status
+          git commit m- ""
+
